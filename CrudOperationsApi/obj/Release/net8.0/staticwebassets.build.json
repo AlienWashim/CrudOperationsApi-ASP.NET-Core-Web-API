@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6OigOFEcHweZdENGYQurwSsouxw+WPFdvag67PwWDQs=",
+  "Source": "CrudOperationsApi",
+  "BasePath": "_content/CrudOperationsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

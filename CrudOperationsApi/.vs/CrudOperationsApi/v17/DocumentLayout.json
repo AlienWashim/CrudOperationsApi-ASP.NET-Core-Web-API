@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Projects\\CrudOperationsApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36B5C195-7404-4CE5-902C-AA0E9500DE04}|CrudOperationsApi\\CrudOperationsApi.csproj|d:\\visual studio projects\\crudoperationsapi\\crudoperationsapi\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B5C195-7404-4CE5-902C-AA0E9500DE04}|CrudOperationsApi\\CrudOperationsApi.csproj|solutionrelative:crudoperationsapi\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B5C195-7404-4CE5-902C-AA0E9500DE04}|CrudOperationsApi\\CrudOperationsApi.csproj|d:\\visual studio projects\\crudoperationsapi\\crudoperationsapi\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B5C195-7404-4CE5-902C-AA0E9500DE04}|CrudOperationsApi\\CrudOperationsApi.csproj|solutionrelative:crudoperationsapi\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B5C195-7404-4CE5-902C-AA0E9500DE04}|CrudOperationsApi\\CrudOperationsApi.csproj|d:\\visual studio projects\\crudoperationsapi\\crudoperationsapi\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B5C195-7404-4CE5-902C-AA0E9500DE04}|CrudOperationsApi\\CrudOperationsApi.csproj|solutionrelative:crudoperationsapi\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B5C195-7404-4CE5-902C-AA0E9500DE04}|CrudOperationsApi\\CrudOperationsApi.csproj|d:\\visual studio projects\\crudoperationsapi\\crudoperationsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36B5C195-7404-4CE5-902C-AA0E9500DE04}|CrudOperationsApi\\CrudOperationsApi.csproj|solutionrelative:crudoperationsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B5C195-7404-4CE5-902C-AA0E9500DE04}|CrudOperationsApi\\CrudOperationsApi.csproj|d:\\visual studio projects\\crudoperationsapi\\crudoperationsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B5C195-7404-4CE5-902C-AA0E9500DE04}|CrudOperationsApi\\CrudOperationsApi.csproj|solutionrelative:crudoperationsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\CrudOperationsApi\\CrudOperationsApi\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "CrudOperationsApi\\DatabaseService.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\CrudOperationsApi\\CrudOperationsApi\\DatabaseService.cs",
+              "RelativeToolTip": "CrudOperationsApi\\DatabaseService.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowHQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:27:16.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\CrudOperationsApi\\CrudOperationsApi\\Person.cs",
+              "RelativeDocumentMoniker": "CrudOperationsApi\\Person.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\CrudOperationsApi\\CrudOperationsApi\\Person.cs",
+              "RelativeToolTip": "CrudOperationsApi\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:25:31.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\CrudOperationsApi\\CrudOperationsApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudOperationsApi\\appsettings.json",
+              "ToolTip": "D:\\Visual Studio Projects\\CrudOperationsApi\\CrudOperationsApi\\appsettings.json",
+              "RelativeToolTip": "CrudOperationsApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T11:24:18.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\CrudOperationsApi\\CrudOperationsApi\\Program.cs",
+              "RelativeDocumentMoniker": "CrudOperationsApi\\Program.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\CrudOperationsApi\\CrudOperationsApi\\Program.cs",
+              "RelativeToolTip": "CrudOperationsApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:30:00.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\CrudOperationsApi\\CrudOperationsApi\\PersonController.cs",
+              "RelativeDocumentMoniker": "CrudOperationsApi\\PersonController.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\CrudOperationsApi\\CrudOperationsApi\\PersonController.cs",
+              "RelativeToolTip": "CrudOperationsApi\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:30:54.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
