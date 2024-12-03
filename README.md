@@ -28,3 +28,8 @@ Here are the available endpoints:
 * POST /api/person: Add a new record.
 * PUT /api/person/{id}: Update an existing record.
 * DELETE /api/person/{id}: Delete a specific record.
+
+![Pagination Example](https://github.com/AlienWashim/CrudOperationsApi-ASP.NET-Core-Web-API/blob/65f1581e74ef14dac7492ecb5bf4cb74c356989b/CRUDOperationAPIHome.png)
+
+### Retrieve a specific record by ID:
+![Pagination Example](https://github.com/AlienWashim/CrudOperationsApi-ASP.NET-Core-Web-API/blob/65f1581e74ef14dac7492ecb5bf4cb74c356989b/GetById.png)
